@@ -46,6 +46,12 @@
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
 
+---
+<p align="center">
+  <a href="https://www.credly.com/users/sanshruth-ralhan">
+    <img src="./credly.gif" alt="My GIF" />
+  </a>
+</p>
 
 ---
 
