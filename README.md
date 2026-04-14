@@ -1,9 +1,20 @@
 <div align="center">
- <h1>🖥️ Welcome to My Code Repository</h1>
- <img src="https://github.com/user-attachments/assets/f2e97feb-60c1-490e-9032-e6d0a91481ab" alt="Image" />
-</div>
+ <img width="4000" height="600" alt="Sanshruth Ralhan" src="https://github.com/user-attachments/assets/6243bc33-9a65-40ef-be95-5b98131ebf6a" />
 
-<div align="center">
+ 
+<table>
+  <tr>
+    <td><a href="https://sanshruth.netlify.app">Portfolio</a></td>
+    <td><a href="https://grokipedia.com/page/Sanshruth_Ralhan">Grokipedia</a></td>
+    <td><a href="https://www.credly.com/users/sanshruth-ralhan">Credly</a></td>
+    <td><a href="https://badges.plus.columbia.edu/profile/sanshruthralhan390407/wallet">Columbia Badges</a></td>
+    <td><a href="https://scholar.google.com/citations?user=aBU0u8AAAAAJ">Google Scholar</a></td>
+  </tr>
+</table>
+
+---
+![Stay-Hungry Stay-Foolish](https://github.com/user-attachments/assets/167ef86b-8e8e-42c7-9b19-6ed960cf0d0a)
+
   
 </div>
 
@@ -12,38 +23,65 @@
 
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Asm-%23000000.svg?style=for-the-badge&logo=generic&logoColor=white" alt="ASM Assembly">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-   <img src="https://img.shields.io/badge/c%2B%2B-%23008000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/ASM-111111?style=for-the-badge&logo=assemblyscript&logoColor=FFFFFF" alt="ASM">
+
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
+
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++">
+
+<img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter">
+
+
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+
+  <img src="https://img.shields.io/badge/Keras-111111?style=for-the-badge&logo=keras&logoColor=D00000" alt="Keras">
+
   
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
+
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+
+  <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn">
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/huggingface-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/fastapi-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
- <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/HuggingFace-111111?style=for-the-badge&logo=huggingface&logoColor=FFB000" alt="Hugging Face">
+
+  <img src="https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify">
+
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=00A6B8" alt="MySQL">
+
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4A90E2" alt="PostgreSQL">
+
+  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase">
+
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=00C2A8" alt="FastAPI">
+
+  <img src="https://img.shields.io/badge/Heroku-111111?style=for-the-badge&logo=heroku&logoColor=6D4AFF" alt="Heroku">
+
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05033" alt="Git">
+
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+
+  <img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
+
+  <img src="https://img.shields.io/badge/Google%20Colab-111111?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab">
+
+  <img src="https://img.shields.io/badge/LaTeX-111111?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX">
+
+  <img src="https://img.shields.io/badge/Markdown-111111?style=for-the-badge&logo=markdown&logoColor=FFFFFF" alt="Markdown">
+
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+
+  <img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
 </p>
 
 ---
@@ -55,11 +93,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanshruthR&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width=350px>
-</p>
-
----
 
 
 
