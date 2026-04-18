@@ -1,5 +1,5 @@
 <div align="center">
- <img width="4000" height="600" alt="Sanshruth Ralhan" src="https://github.com/user-attachments/assets/6243bc33-9a65-40ef-be95-5b98131ebf6a" />
+ <img alt="Sanshruth Ralhan" src="https://github.com/user-attachments/assets/6243bc33-9a65-40ef-be95-5b98131ebf6a" />
 
  
 <table>
